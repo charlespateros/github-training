@@ -8,4 +8,4 @@
 * GitHub classroom
 * Permissions
 * Exercises
-* Automated testing
+* Automated testing 
